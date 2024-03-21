@@ -1,5 +1,5 @@
 function obtainSubSequences() {
-  return 'hello';
+  return [3, 2, 1, 0];
 }
 
 module.exports = {
